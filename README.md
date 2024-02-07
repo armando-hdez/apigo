@@ -1,2 +1,2 @@
-# godes
+# apigo
 Repositorio de Go
